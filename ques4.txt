@@ -1,0 +1,20 @@
+The best project that I have worked on till date using HTML, CSS, Bootstrap and a little bit of Javascript is called "Tindog".
+It's design I have created similar to that of tinder.
+The idea behind this website is to make people who are owning dogs, meet each other through this platform. Basically finding a good companion for you and your dog.
+
+Talking about tech-stack that has been used here is: HTML, CSS, Bootstrap and light Javascript.
+The website is made responsive according to whether the users are opening the site on a desktop, tablet or even a mobile phone.
+I have added responsive collapsing navigation bar at the top.
+In the navigation bar, when you click on a particular option the page is automatically redirected to that part of the page where that content is available. For example if you click on pricing in the navigation bar, you will directly go to the pricing section of the website.
+Used the image laying over other sections of the page and also rotated it.
+Used hovering icons and logos.
+Added slideshow for testimonials section of the website.
+Added cards for the pricing section.
+Also hovering nice stylish looking buttons have been added.
+Contacting information and icons have been specified at the end.
+
+The link to the website is: https://avi110401.github.io/tindog/
+
+
+Other website created links: https://avi110401.github.io/MyPersonalSite/
+https://avi110401.github.io/CV/
